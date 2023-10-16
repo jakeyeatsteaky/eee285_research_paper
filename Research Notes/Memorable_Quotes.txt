@@ -1,0 +1,12 @@
+[ ] From Dataflow Architecture:
+    "Despite the advantages, there are no   
+    commercially  successful  implementa- 
+    tions of the data-driven model. Critiques 
+    of  dataflow  argue  that functional  se- 
+    inantics and freedom  from  side effects 
+    are  nice  for the  programmer.  but  well- 
+    known  compiler techniques  applied  to 
+    languages like  FORTRAN allow equal 
+    exploitation of  parallelism."
+
+    
