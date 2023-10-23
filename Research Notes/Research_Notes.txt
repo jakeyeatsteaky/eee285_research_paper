@@ -1,0 +1,59 @@
+
+
+Article: Intro to Parallel computing tutorial:
+{
+    Link to Article: https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial
+
+    Referenced Where: Introduction [1]
+
+    
+}
+
+
+
+Article: Dataflow_architecture:
+{
+    Link to article: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=207108
+
+    Referenced Where: abstract
+    
+    Multiprocessing paradigms have two fundamental problems to solve:
+	1. synchronization:
+    used to coordinate dependent tasks for deterministic execution
+    dependence can be data (shared variables) or control (order of execution)
+    
+	2. latency:
+    The time it takes to complete an operation. Implied delays due to sharing of resources (memory, communication subsystems)
+    
+    Any multiprocess paradigm requiring data disticbution is non-trivial; it depends not only on the multiprocessor hardware organization but also how the algorithm accesses the data itself.  
+    
+    In data flow, the availability of data determines which instruction is executed next.  (unlike von neumann which is sequential)
+
+    
+    **Static Dataflow Computers**
+ Dataflow processor can be designed with three cycles
+ 1. Examine: examine each instruction to determin the availabilty of 
+ operands.  The flow of exectuion in DFA is determined by
+ when operands for some calulation are available.
+		2. Select: schedule some instructions
+		3. Update: results from completed instructions are used to update 
+        operands for other instructions
+
+        ** The whole end of this article is good counterarugments to DFA *
+        
+}
+        
+        
+**Interesting Quotes**
+    [ ] From Dataflow Architecture:
+    "Despite the advantages, there are no   
+    commercially  successful  implementa- 
+    tions of the data-driven model. Critiques 
+    of  dataflow  argue  that functional  se- 
+    inantics and freedom  from  side effects 
+    are  nice  for the  programmer.  but  well- 
+    known  compiler techniques  applied  to 
+    languages like  FORTRAN allow equal 
+    exploitation of  parallelism."
+
+    

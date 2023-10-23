@@ -1,0 +1,43 @@
+
+Text Citations:
+[1] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=207108
+    Data flow architecture article
+
+[2] https://spectrum.ieee.org/the-moores-law-machine
+    moores law is slowing
+
+[3] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056646
+    IEEE artificial intelligence book
+
+[4] https://sambanova.ai/wp-content/uploads/2021/04/SambaNova_Accelerated-Computing-with-a-Reconfigurable-Dataflow-Architecture_Whitepaper_English.pdf
+    Samba article 2
+
+[5]  https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial
+    LLNL tutorial
+
+[6] https://www.cs.umd.edu/users/meesh/cmsc411/website/projects/parallel2/history.html
+    some fuckin website
+
+[7] https://en.wikipedia.org/wiki/Control_unit
+    definition of a control unit
+
+[8] https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/01%3A_The_Basics_-_An_Overview/1.4_Instruction_Cycles
+    fetch decode execute
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Figures:
+[1] https://www.researchgate.net/figure/This-graph-of-Moores-law-shows-the-regularity-of-improvements-in-transistors-over-a_fig1_239580581
+    Moores Law graph
+
+[2] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056646
+    AI ML DL venn diagram
+
+[3] https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Concepts
+    Parallel processing
+
+[4] https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Concepts
+    Basic Computing architecture
+
+[5] https://www.cs.utexas.edu/~byoung/cs429/slides12-datapath1.pdf
+    Fetch Decode Execute
