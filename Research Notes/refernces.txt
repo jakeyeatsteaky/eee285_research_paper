@@ -4,7 +4,7 @@ Text Citations:
     Data flow architecture article
 
 [2] https://spectrum.ieee.org/the-moores-law-machine
-    moores law is slowing
+    moores law is slowin
 
 [3] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056646
     IEEE artificial intelligence book
@@ -24,7 +24,26 @@ Text Citations:
 [8] https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/01%3A_The_Basics_-_An_Overview/1.4_Instruction_Cycles
     fetch decode execute
 
+[9] https://www.cs.utexas.edu/~byoung/cs429/slides12-datapath1.pdf
+    Fetch Decode Execute
 
+[10] Jack B. Dennis and David P. Misunas. 1974. A preliminary architecture for a basic data-flow processor. SIGARCH Comput. Archit. News 3, 4 (December 1974), 126–132. https://doi.org/10.1145/641675.642111
+    Jesse [5]
+
+[11] Patt, Y.N., Hwu, W. and Shebanow, M. (no date) HPS, a new microarchitecture: Rationale and introduction. Available at: http://impact.crhc.illinois.edu/shared/Papers/Micro-85-HPS_a_new_microarchitecture.pdf (Accessed: 22 October 2023).
+    jesse [6]
+
+[12] A. Ilievski, V. Zdraveski and M. Gusev, "How CUDA Powers the Machine Learning Revolution," 2018 26th Telecommunications Forum (TELFOR), Belgrade, Serbia, 2018, pp. 420-425, doi: 10.1109/TELFOR.2018.8611982.
+    jesse [7]
+
+[13] Human brain (2023) Wikipedia. Available at: https://en.wikipedia.org/wiki/Human_brain (Accessed: 22 October 2023).
+    jesse [8]
+
+[14] (2021) Accelerated computing with a reconfigurable dataflow architecture. Available at: https://sambanova.ai/wp-content/uploads/2021/04/SambaNova_Accelerated-Computing-with-a-Reconfigurable-Dataflow-Architecture_Whitepaper_English.pdf (Accessed: 23 October 2023).
+    jesse [9]
+
+[15] Gent, E. (2023) Sambanova’s new chip means gpts for everyone, IEEE Spectrum. Available at: https://spectrum.ieee.org/ai-chip-sambanova (Accessed: 22 October 2023).
+    jesse [10]
 -------------------------------------------------------------------------------------------------------------------------
 Figures:
 [1] https://www.researchgate.net/figure/This-graph-of-Moores-law-shows-the-regularity-of-improvements-in-transistors-over-a_fig1_239580581
